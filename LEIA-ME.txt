@@ -1,0 +1,4 @@
+1. Coloque os PDFs das faturas dentro da pasta chamada pdfs (você pode colocar um ou mais PDFs lá dentro, com qualquer nome). (Caso não exista ainda essa pasta, poderá criar pasta chamada "pdfs"
+2. Certifique-se de que a planilha modelo em branco (Fatura detalhada para preencher.xlsx) está na pasta principal do script.
+3. Dê um duplo clique no arquivo rodar_automacao.bat.
+4. O script lerá os PDFs da pasta pdfs, processará os dados e criará um novo arquivo chamado Fatura detalhada preenchida resultado.xlsx já com todas as informações salvas.
