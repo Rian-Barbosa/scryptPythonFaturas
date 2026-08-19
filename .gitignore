@@ -1,0 +1,19 @@
+# Arquivos de entrada e saída (faturas e resultado)
+pdfs/*
+!pdfs/.gitkeep
+Fatura detalhada preenchida resultado.xlsx
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
